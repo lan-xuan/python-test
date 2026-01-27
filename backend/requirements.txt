@@ -1,4 +1,8 @@
 fastapi
 uvicorn[standard]
 sqlmodel
+pymysql
+passlib[bcrypt]
+python-jose[cryptography]
 python-dotenv
+sqlalchemy
